@@ -66,12 +66,5 @@ stt.write(aqu)
 print(data.corr())
 
 
-#fig=plt.figure(figsize=(10, 4))
-#data.plot(x='Hours',y='Scores',style='o')
-#plt.title('Hours vs score')
-#plt.xlabel('Hours Studied')
-#plt.ylabel('Percentage Score')
-#plt.show()
-#stt.pyplot(fig)
 
 
